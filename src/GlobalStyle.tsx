@@ -51,8 +51,8 @@ table {
 body {
   font-family: "Orbit", sans-serif;
   line-height: 1;
-  background-color:${(props) => props.theme.bgColor};
-  color:${(props) => props.theme.textColor}
+  /* display:flex; */
+
 }
 a {
   text-decoration: none;

@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { RecoilRoot } from 'recoil';
 import { ThemeProvider } from 'styled-components';
-import { darkTheme, lightTheme } from './theme.ts';
+import { lightTheme } from './theme.ts';
 import App from './App.tsx';
 import { GlobalStyle } from './GlobalStyle.tsx';
 
